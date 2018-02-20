@@ -1,3 +1,7 @@
+0.18.0'
+
+- added random note to change log to test something about github
+
 0.18.0
 - added "clean" theme with experimental alpha support
 - added pngs missing in "gray" theme
